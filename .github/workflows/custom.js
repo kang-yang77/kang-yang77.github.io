@@ -12,7 +12,7 @@ let mainConfig = {
 
   repoConfig: {
     owner: "kang-yang77",
-    repo: "kang-yang7.github.io",
+    repo: "kang-yang77.github.io",
     pushBranch: "main",
     email: "yangkang7896@163.com",
     filterUsers: []
