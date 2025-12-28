@@ -6,8 +6,8 @@ let mainConfig = {
   vssueConfig: {
     owner: "kang-yang77",
     repo: "kang-yang77.github.io",
-    clientId: "2783a4b752f56c0ed912",
-    clientSecret: "c8d9116fcade901567ff34aa1fb09216731683a3"
+    clientId: "Ov23liChm1oT21rHKyNF",
+    clientSecret: "351ff3855b1c4a0cbfb60c4f3b385f1b4854a094"
   },
 
   repoConfig: {
