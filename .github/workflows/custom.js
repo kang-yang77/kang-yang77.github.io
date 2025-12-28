@@ -21,7 +21,7 @@ let mainConfig = {
   title: "YiFei Zhang's Blog",
   description: "在这里了解我的一切，对编程的热爱永不停歇。",
   customDomain: "",
-  base: "/Issue-Blog-With-Github-Action/",
+  base: "/",
 
   slogan: {
     main: "有逻辑的灵魂，",
